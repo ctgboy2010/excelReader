@@ -1,0 +1,15 @@
+google Search
+=============
+how to insert excel data into mysql n numbers of column using php
+
+Read first row from excel file and create mysql table with column1 fields
+=====================================================================
+http://stackoverflow.com/questions/20851711/read-first-row-from-excel-file-and-create-mysql-table-with-column1-fields
+
+Read Excel file data in PHP - PhpExcelReader
+============================================
+http://coursesweb.net/php-mysql/read-excel-file-data-php_pc
+
+Reading and Writing Spreadsheets with PHP
+=========================================
+http://devzone.zend.com/27/reading-and-writing-spreadsheets-with-php/
